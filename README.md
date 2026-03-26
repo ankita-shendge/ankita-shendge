@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ankita Shendge!
 
-### 🚀 Web Developer at Audemy
+### 🚀 Web Developer 
 
-Welcome to my GitHub! I’m passionate about building engaging, scalable, and high-performance web experiences.
+I’m passionate about building engaging, scalable, and high-performance web experiences.
 
 ---
 
