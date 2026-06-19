@@ -86,7 +86,7 @@ I’m passionate about building engaging, scalable, and high-performance web exp
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ankita-shendge/)
-- [Personal Portfolio](https://ankita-shendge.github.io/portfolio/index.html)
+- [Personal Portfolio](https://ankui.netlify.app/)
 - **Email:** ankitashendge15@gmail.com
 
 ---
