@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankita Shendge!
 
-### 🚀 Web Developer 
+### 🚀 Softwear Developer 
 
 I’m passionate about building engaging, scalable, and high-performance web experiences.
 
